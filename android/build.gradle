@@ -1,3 +1,5 @@
+package android
+
 group 'rocks.biessek.fluttercountrypicker'
 version '1.0-SNAPSHOT'
 
